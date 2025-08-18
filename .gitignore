@@ -1,3 +1,2 @@
 # IDE settings (WebStorm / IntelliJ)
-Day1/.idea/
-*.iml
+.idea
